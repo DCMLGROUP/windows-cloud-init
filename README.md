@@ -71,3 +71,9 @@ Pour utiliser ce script avec **Proxmox VE** :
 
 Ce script doit être exécuté avec précaution. Assurez-vous de l’adapter à votre environnement et de tester dans un environnement de préproduction avant une utilisation en production.
 
+## Contribution
+
+Nous invitons les utilisateurs à proposer des suggestions ou des améliorations pour ce script. Si vous avez des idées ou des modifications à apporter, n’hésitez pas à partager vos contributions via des pull requests ou en ouvrant une issue.
+
+
+
